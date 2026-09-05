@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title description">
+  <title id="title">Crab strategy decision flow</title>
+  <desc id="description">The detector confirms five pivots, checks harmonic ratios and X-D geometry, then builds a reversal risk plan.</desc>
+  <rect width="1100" height="360" fill="#0f172a"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10Z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+  <g fill="#172554" stroke="#3b82f6" stroke-width="2">
+    <rect x="40" y="110" width="210" height="120" rx="18"/>
+    <rect x="310" y="110" width="220" height="120" rx="18"/>
+    <rect x="590" y="110" width="220" height="120" rx="18"/>
+    <rect x="870" y="110" width="190" height="120" rx="18"/>
+  </g>
+  <g stroke="#94a3b8" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M250 170H300"/>
+    <path d="M530 170H580"/>
+    <path d="M810 170H860"/>
+  </g>
+  <g fill="#f8fafc" font-family="ui-sans-serif, system-ui" text-anchor="middle">
+    <text x="145" y="145" font-size="22" font-weight="700">Confirm pivots</text>
+    <text x="145" y="180" font-size="17">X · A · B · C · D</text>
+    <text x="145" y="207" font-size="17">bounded wick fractals</text>
+    <text x="420" y="145" font-size="22" font-weight="700">Check ratios</text>
+    <text x="420" y="180" font-size="17">XB · AC · BD</text>
+    <text x="420" y="207" font-size="17">XD ≈ 1.618</text>
+    <text x="700" y="145" font-size="22" font-weight="700">Check X–D side</text>
+    <text x="700" y="180" font-size="17">A, B, C stay inside</text>
+    <text x="700" y="207" font-size="17">B is clearly separated</text>
+    <text x="965" y="145" font-size="22" font-weight="700">Build plan</text>
+    <text x="965" y="180" font-size="17">target: 61.8% A–D</text>
+    <text x="965" y="207" font-size="17">stop: 10% X–A</text>
+  </g>
+  <text x="550" y="55" fill="#cbd5e1" font-family="ui-sans-serif, system-ui" font-size="28" font-weight="700" text-anchor="middle">Crab reversal strategy</text>
+  <text x="550" y="305" fill="#94a3b8" font-family="ui-sans-serif, system-ui" font-size="18" text-anchor="middle">Bullish: LONG after lower D · Bearish: SHORT after higher D</text>
+</svg>
