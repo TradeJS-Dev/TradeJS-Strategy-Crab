@@ -47,6 +47,12 @@ geometry without changing detector code.
 yarn add @tradejs/strategy-crab
 ```
 
+To install the latest verified preview, run:
+
+```bash
+yarn add @tradejs/strategy-crab@beta
+```
+
 Register the package in `tradejs.config.ts`:
 
 ```ts
