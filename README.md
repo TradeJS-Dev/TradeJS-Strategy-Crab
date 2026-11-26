@@ -1,6 +1,10 @@
 # @tradejs/strategy-crab
 
-TradeJS strategy plugin providing `Crab`.
+Crab looks for a reversal after five alternating highs and lows form an XABCD
+pattern. It checks the distances between those points against Fibonacci
+ratios.
+
+[See examples and configuration in the TradeJS Marketplace](https://tradejs.dev/marketplace/crab).
 
 ## Strategy overview
 

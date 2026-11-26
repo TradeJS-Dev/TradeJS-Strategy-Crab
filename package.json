@@ -1,7 +1,7 @@
 {
   "name": "@tradejs/strategy-crab",
   "version": "0.1.2",
-  "description": "Bullish and bearish five-pivot Crab harmonic reversal strategy for TradeJS.",
+  "description": "Crab looks for a reversal after five alternating highs and lows form an XABCD pattern.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
   "engines": {
