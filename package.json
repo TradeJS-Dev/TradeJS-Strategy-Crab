@@ -1,6 +1,6 @@
 {
   "name": "@tradejs/strategy-crab",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Crab looks for a reversal after five alternating highs and lows form an XABCD pattern.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
